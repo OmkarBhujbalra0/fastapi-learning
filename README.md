@@ -4,9 +4,9 @@ FastAPI Learning is basically my Github Repository containing multiple folders o
 
 ## Folders:
 
-- basic_one and replica_api folders consists of Python scripts using which you can learn how to build CRUD API.
-- pydantic_api folder deals with building CRUD API but using Pydantic library for data validation.
-- responsemodel folder deals with use of Response Model which helps in displaying only required content.
+- `basic_one` and `replica_api` folders consists of Python scripts using which you can learn how to build CRUD API.
+- `pydantic_api` folder deals with building CRUD API but using Pydantic library for data validation.
+- `responsemodel` folder deals with use of Response Model which helps in displaying only required content.
 
 ## Setup 
 

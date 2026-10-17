@@ -4,10 +4,12 @@ FastAPI Learning is basically my Github Repository containing multiple folders o
 
 ## Folders:
 
-- `basic_one` and `replica_api` folders consists of Python scripts using which you can learn how to build CRUD API.
-- `pydantic_api` folder deals with building CRUD API but using Pydantic library for data validation.
-- `responsemodel` folder deals with use of Response Model which helps in displaying only required content.
-- `httpexception` folder introduces you to use raising HTTP Exceptions and understand how to use status code
+- [basic_one](https://github.com/OmkarBhujbalra0/fastapi-learning/tree/main/basic_one) and [replica_api](https://github.com/OmkarBhujbalra0/fastapi-learning/tree/main/replica_api) folders consists of Python scripts using which you can learn how to build CRUD API.
+- [pydantic_api](https://github.com/OmkarBhujbalra0/fastapi-learning/tree/main/pydantic_api) folder deals with building CRUD API but using Pydantic library for data validation.
+- [responsemodel](https://github.com/OmkarBhujbalra0/fastapi-learning/tree/main/responsemodel) folder deals with use of Response Model which helps in displaying only required content.
+- [httpexception](https://github.com/OmkarBhujbalra0/fastapi-learning/tree/main/httpexception) folder introduces you to use raising HTTP Exceptions and understand how to use status code
+- [customerrors](https://github.com/OmkarBhujbalra0/fastapi-learning/tree/main/customerrors) folder consist of using customized errors.
+- [dependencyinjection](https://github.com/OmkarBhujbalra0/fastapi-learning/tree/main/dependencyinjection) folder deals with dependency injection.
 
 ## Setup 
 

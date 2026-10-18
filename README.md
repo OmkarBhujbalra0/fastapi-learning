@@ -4,6 +4,8 @@ FastAPI Learning is basically my Github Repository containing multiple folders o
 
 ## Folders:
 
+### FastAPI Concepts
+
 - [basic_one](https://github.com/OmkarBhujbalra0/fastapi-learning/tree/main/basic_one) and [replica_api](https://github.com/OmkarBhujbalra0/fastapi-learning/tree/main/replica_api) folders consists of Python scripts using which you can learn how to build CRUD API.
 - [pydantic_api](https://github.com/OmkarBhujbalra0/fastapi-learning/tree/main/pydantic_api) folder deals with building CRUD API but using Pydantic library for data validation.
 - [responsemodel](https://github.com/OmkarBhujbalra0/fastapi-learning/tree/main/responsemodel) folder deals with use of Response Model which helps in displaying only required content.
@@ -14,7 +16,7 @@ FastAPI Learning is basically my Github Repository containing multiple folders o
 
 ### Database Operations
 
-- [basic_db](https://github.com/OmkarBhujbalra0/fastapi-learning/tree/main/basic_db) folders will introduce you to connect with database. `(Connection)`
+- [basic_db](https://github.com/OmkarBhujbalra0/fastapi-learning/tree/main/basic_db) folder will introduce you to connect with database. `(Connection)`
 
 ## Setup 
 

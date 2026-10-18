@@ -12,6 +12,10 @@ FastAPI Learning is basically my Github Repository containing multiple folders o
 - [dependencyinjection](https://github.com/OmkarBhujbalra0/fastapi-learning/tree/main/dependencyinjection) folder deals with dependency injection.
 - [middleware](https://github.com/OmkarBhujbalra0/fastapi-learning/tree/main/dependencyinjection) folder deals with basic request logging middleware.
 
+### Database Operations
+
+- [basic_db](https://github.com/OmkarBhujbalra0/fastapi-learning/tree/main/basic_db) folders will introduce you to connect with database. `(Connection)`
+
 ## Setup 
 
 1. Python 3.13 or newer

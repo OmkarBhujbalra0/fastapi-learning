@@ -17,6 +17,7 @@ FastAPI Learning is basically my Github Repository containing multiple folders o
 ### Database Operations
 
 - [basic_db](https://github.com/OmkarBhujbalra0/fastapi-learning/tree/main/basic_db) folder will introduce you to connect with database. `(Connection)`
+- [sqla_db](https://github.com/OmkarBhujbalra0/fastapi-learning/tree/main/sqla_db) and [sqla_db2](https://github.com/OmkarBhujbalra0/fastapi-learning/tree/main/sqla_db2) folders will help you to setup SQLAlchemy.
 
 ## Setup 
 

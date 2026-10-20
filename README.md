@@ -31,9 +31,10 @@ FastAPI Learning is basically my Github Repository containing multiple folders o
 ```
 python -m venv .venv
 ```
-3. Install the required dependencies
+3. Install the required dependencies (requirements.txt file is there in almost all the folders)
+- If there is no requirement.txt file then install following package- (fastapi,uvicorn,sqlalchemy)
 ```
-pip install fastapi uvicorn
+pip install -r requirements.txt
 ```
 
 ## Usage

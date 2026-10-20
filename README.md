@@ -17,11 +17,11 @@ FastAPI Learning is basically my Github Repository containing multiple folders o
 ### Database Operations
 
 - [basic_db](https://github.com/OmkarBhujbalra0/fastapi-learning/tree/main/basic_db) folder will introduce you to connect with database. `(Connection)`
-- [sqla_db](https://github.com/OmkarBhujbalra0/fastapi-learning/tree/main/sqla_db) and [sqla_db2](https://github.com/OmkarBhujbalra0/fastapi-learning/tree/main/sqla_db2) folders will help you to setup SQLAlchemy.
-- [insert_db](https://github.com/OmkarBhujbalra0/fastapi-learning/tree/main/insert_db) folder deals with inserting elements in database
-- [read_db](https://github.com/OmkarBhujbalra0/fastapi-learning/tree/main/read_db) folder deals with reading the data stored in the database by reading all the data or by reading specific data
-- [update_db](https://github.com/OmkarBhujbalra0/fastapi-learning/tree/main/update_db) folder deals with updating the specific stored data in the database
-- [delete_db](https://github.com/OmkarBhujbalra0/fastapi-learning/tree/main/insert_db) folder deals with deleting the specified data from the database, completing our basic CRUD Api using Database.
+- [sqla_db](https://github.com/OmkarBhujbalra0/fastapi-learning/tree/main/sqla_db) and [sqla_db2] (https://github.com/OmkarBhujbalra0/fastapi-learning/tree/main/sqla_db2) folders will help you to setup SQLAlchemy.  `(SQLAlchemy Setup)`
+- [insert_db](https://github.com/OmkarBhujbalra0/fastapi-learning/tree/main/insert_db) folder deals with inserting elements in database.  `(Create data in SQLAlchemy)`
+- [read_db](https://github.com/OmkarBhujbalra0/fastapi-learning/tree/main/read_db) folder deals with reading the data stored in the database by reading all the data or by reading specific data. `(Read data in SQLAlchemy)`
+- [update_db](https://github.com/OmkarBhujbalra0/fastapi-learning/tree/main/update_db) folder deals with updating the specific stored data in the database. `(Update data in SQLAlchemy)`
+- [delete_db](https://github.com/OmkarBhujbalra0/fastapi-learning/tree/main/insert_db) folder deals with deleting the specified data from the database, completing our basic CRUD Api using Database. `(Delete data in SQLAlchemy) / (Basic CRUD API)`
 
 ## Setup 
 

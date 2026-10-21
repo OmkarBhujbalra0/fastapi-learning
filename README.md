@@ -12,7 +12,8 @@ FastAPI Learning is basically my Github Repository containing multiple folders o
 - [httpexception](https://github.com/OmkarBhujbalra0/fastapi-learning/tree/main/httpexception) folder introduces you to use raising HTTP Exceptions and understand how to use status code
 - [customerrors](https://github.com/OmkarBhujbalra0/fastapi-learning/tree/main/customerrors) folder consist of using customized errors.
 - [dependencyinjection](https://github.com/OmkarBhujbalra0/fastapi-learning/tree/main/dependencyinjection) folder deals with dependency injection.
-- [middleware](https://github.com/OmkarBhujbalra0/fastapi-learning/tree/main/dependencyinjection) folder deals with basic request logging middleware.
+- [middleware](https://github.com/OmkarBhujbalra0/fastapi-learning/tree/main/middleware) folder deals with basic request logging middleware.
+- [async_api](https://github.com/OmkarBhujbalra0/fastapi-learning/tree/main/async_api) folder distinguishes between synchronous and asynchronous operations.
 
 ### Database Operations
 
@@ -21,7 +22,7 @@ FastAPI Learning is basically my Github Repository containing multiple folders o
 - [insert_db](https://github.com/OmkarBhujbalra0/fastapi-learning/tree/main/insert_db) folder deals with inserting elements in database.  `(Create data in SQLAlchemy)`
 - [read_db](https://github.com/OmkarBhujbalra0/fastapi-learning/tree/main/read_db) folder deals with reading the data stored in the database by reading all the data or by reading specific data. `(Read data in SQLAlchemy)`
 - [update_db](https://github.com/OmkarBhujbalra0/fastapi-learning/tree/main/update_db) folder deals with updating the specific stored data in the database. `(Update data in SQLAlchemy)`
-- [delete_db](https://github.com/OmkarBhujbalra0/fastapi-learning/tree/main/insert_db) folder deals with deleting the specified data from the database, completing our basic CRUD Api using Database. `(Delete data in SQLAlchemy) / (Basic CRUD API)`
+- [delete_db](https://github.com/OmkarBhujbalra0/fastapi-learning/tree/main/insert_db) and [crud_db](https://github.com/OmkarBhujbalra0/fastapi-learning/tree/main/crud_db) folder deals with deleting the specified data from the database, completing our basic CRUD Api using Database. `(Delete data in SQLAlchemy) / (Basic CRUD API)`
 
 ## Setup 
 

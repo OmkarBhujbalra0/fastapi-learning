@@ -27,6 +27,7 @@ FastAPI Learning is basically my Github Repository containing multiple folders o
 ### Authentication
 
 - [jwt_auth_intro](https://github.com/OmkarBhujbalra0/fastapi-learning/tree/main/jwt_auth_intro) folder introduces you to how JWT Authentication works along with using it in API for secure routes `(Creating and Verifying JSON Web Tokens)`
+- [jose_auth](https://github.com/OmkarBhujbalra0/fastapi-learning/tree/main/jose_auth) folder deals with JWT Authentication using python-jose library `(JWT Authentication using python-jose)`
 
 ## Setup 
 

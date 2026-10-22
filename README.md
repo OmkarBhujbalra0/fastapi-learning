@@ -24,6 +24,10 @@ FastAPI Learning is basically my Github Repository containing multiple folders o
 - [update_db](https://github.com/OmkarBhujbalra0/fastapi-learning/tree/main/update_db) folder deals with updating the specific stored data in the database. `(Update data in SQLAlchemy)`
 - [delete_db](https://github.com/OmkarBhujbalra0/fastapi-learning/tree/main/insert_db) and [crud_db](https://github.com/OmkarBhujbalra0/fastapi-learning/tree/main/crud_db) folder deals with deleting the specified data from the database, completing our basic CRUD Api using Database. `(Delete data in SQLAlchemy) / (Basic CRUD API)`
 
+### Authentication
+
+- [jwt_auth_intro](https://github.com/OmkarBhujbalra0/fastapi-learning/tree/main/jwt_auth_intro) folder introduces you to how JWT Authentication works along with using it in API for secure routes `(Creating and Verifying JSON Web Tokens)`
+
 ## Setup 
 
 1. Python 3.13 or newer

@@ -20,6 +20,7 @@ FastAPI Learning is basically my Github Repository containing multiple folders o
 | [cors_middleware](https://github.com/OmkarBhujbalra0/fastapi-learning/tree/main/fastapi_concepts/cors_middleware) | CORS Implementation |
 | [env_files](https://github.com/OmkarBhujbalra0/fastapi-learning/tree/main/fastapi_concepts/env_files) | Environment Variables |
 | [testing](https://github.com/OmkarBhujbalra0/fastapi-learning/tree/main/fastapi_concepts/testing) | Testing |
+| [third_party_api](https://github.com/OmkarBhujbalra0/fastapi-learning/tree/main/fastapi_concepts/third_party_api) | Third Party API Integration |
 
 ### Database Operations
 

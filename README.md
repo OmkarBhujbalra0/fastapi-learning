@@ -15,12 +15,20 @@ FastAPI Learning is basically my Github Repository containing multiple folders o
 | [customerrors](https://github.com/OmkarBhujbalra0/fastapi-learning/tree/main/fastapi_concepts/customerrors) | Custom Errors |
 | [dependencyinjection](https://github.com/OmkarBhujbalra0/fastapi-learning/tree/main/fastapi_concepts/dependencyinjection) | Dependency Injection using Header() and Depends() |
 | [middleware](https://github.com/OmkarBhujbalra0/fastapi-learning/tree/main/fastapi_concepts/middleware) | Basic Request Logging Middleware |
-| [async_api](https://github.com/OmkarBhujbalra0/fastapi-learning/tree/main/fastapi_concepts/async_api) | Difference between synchronous and asynchronous tasks |
 | [file_uploads](https://github.com/OmkarBhujbalra0/fastapi-learning/tree/main/fastapi_concepts/file_uploads) | File Upload + Static Files |
+| [testing](https://github.com/OmkarBhujbalra0/fastapi-learning/tree/main/fastapi_concepts/testing) | Testing |
+
+### Web Concepts
+
+| Folder Name | Concepts |
+|:-----------:|:--------:|
+| [async_api](https://github.com/OmkarBhujbalra0/fastapi-learning/tree/main/fastapi_concepts/async_api) | Difference between synchronous and asynchronous tasks |
 | [cors_middleware](https://github.com/OmkarBhujbalra0/fastapi-learning/tree/main/fastapi_concepts/cors_middleware) | CORS Implementation |
 | [env_files](https://github.com/OmkarBhujbalra0/fastapi-learning/tree/main/fastapi_concepts/env_files) | Environment Variables |
-| [testing](https://github.com/OmkarBhujbalra0/fastapi-learning/tree/main/fastapi_concepts/testing) | Testing |
+| [file_uploads](https://github.com/OmkarBhujbalra0/fastapi-learning/tree/main/fastapi_concepts/file_uploads) | File Upload + Static Files |
 | [third_party_api](https://github.com/OmkarBhujbalra0/fastapi-learning/tree/main/fastapi_concepts/third_party_api) | Third Party API Integration |
+| [webcrawlexample](https://github.com/OmkarBhujbalra0/fastapi-learning/tree/main/fastapi_concepts/webcrawlexample) | Web Crawling |
+| [pagination](https://github.com/OmkarBhujbalra0/fastapi-learning/tree/main/fastapi_concepts/pagination) | Pagination |
 
 ### Database Operations
 
